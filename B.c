@@ -21,6 +21,7 @@ int main() {
 
 	printf("data.str : %s\n", data.str);
 
+        printf("END \n");
 	return 0;
 }
 
