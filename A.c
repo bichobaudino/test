@@ -6,11 +6,14 @@
 
 int main(void) {
 
+    printf("----------------------------");
+
     printf("HELLO WORLD!! \n");
     
 
     printf("THIS IS A TEST.. \n");
 	
+    printf("----------------------------");
 
     printf("\nEND\n");
 	return (0);
