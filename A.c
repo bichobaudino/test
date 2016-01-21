@@ -8,7 +8,11 @@ int main(void) {
 
     printf("HELLO WORLD!! \n");
     
-	printf("\nEND\n");
+
+    printf("THIS IS A TEST.. \n");
+	
+
+    printf("\nEND\n");
 	return (0);
 }
 
